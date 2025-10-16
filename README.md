@@ -1,6 +1,6 @@
 Overview
 
-Bizland is a single-page responsive website built using HTML5, CSS3, Bootstrap 5, and JavaScript (for interactivity).
+Bizland is a single-page responsive website built using HTML5, CSS3, Bootstrap 5.
 
 It features a modern, professional, and clean UI design that showcases multiple sections, including Landing, About, Services, Portfolio, Team, and Contact.
 
